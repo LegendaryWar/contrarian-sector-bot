@@ -9,17 +9,18 @@ This bot publishes the inferences gained from the spreadsheet database by visual
 
 ## Buyscores
 Buyscores are metrics calculated by the spreadsheet that analyze the shiller PE values over the last 10 years. These can give a quick overview on curreny valuation relative to past valuations. These are presented in a gauge chart format.
-<img src="https://pbs.twimg.com/media/FNS62jOXIAM27j6?format=jpg&name=large" width="128"/>
+
+![image](https://pbs.twimg.com/media/FNS62jOXIAM27j6?format=jpg&name=large)
 
 ## Sector Normal Distribution Charts
 Whenever a sector changes its valuation from one category to another, a normal distribution chart will be created by the bot. This chart shows the current valuation of the sector compared to its past.
 
 #### The energy sector in Feb 2021
-[!alt text](https://pbs.twimg.com/media/EvCrAQbWQAA8Teb?format=png&name=small)
+![image](https://pbs.twimg.com/media/EvCrAQbWQAA8Teb?format=png&name=small)
 
 #### The energy sector in April 2022
-[!alt text](https://pbs.twimg.com/media/FN2yiHHXMAYL95c?format=png&name=small)
+![image](https://pbs.twimg.com/media/FN2yiHHXMAYL95c?format=png&name=small)
 
 ## Sector Valuation Tables
 The bot releases the current valuations of the stock market sectors in a table format to provide a summary of the categorizations of each sector. 
-[!alt text](https://pbs.twimg.com/media/FQRTV-UXwAAOEDY?format=png&name=small)
+![image](https://pbs.twimg.com/media/FQRTV-UXwAAOEDY?format=png&name=small)
