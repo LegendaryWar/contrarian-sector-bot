@@ -1,0 +1,2 @@
+# contrarian sector bot
+ 
