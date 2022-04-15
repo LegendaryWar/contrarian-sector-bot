@@ -15,11 +15,11 @@ Buyscores are metrics calculated by the spreadsheet that analyze the shiller PE 
 ## Sector Normal Distribution Charts
 Whenever a sector changes its valuation from one category to another, a normal distribution chart will be created by the bot. This chart shows the current valuation of the sector compared to its past.
 
-#### The energy sector in Feb 2021
 ![image](https://pbs.twimg.com/media/EvCrAQbWQAA8Teb?format=png&name=small)
+#### The energy sector in Feb 2021
 
-#### The energy sector in April 2022
 ![image](https://pbs.twimg.com/media/FN2yiHHXMAYL95c?format=png&name=small)
+#### The energy sector in April 2022
 
 ## Sector Valuation Tables
 The bot releases the current valuations of the stock market sectors in a table format to provide a summary of the categorizations of each sector. 
