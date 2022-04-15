@@ -2,7 +2,7 @@
 A bot that uses shiller PE values to gain inferences about current valuations different stock market sectors. The bot categorizes each sector into 9 different categories ranging from CRASH to MIGHTLY OVERVALUED.
  
 # Datascraping
-The shiller PE values are scraped from a website by using regexes on it's HTML source code. The datascraping takes place on google cloud using google scripts, which directly interact with the spreadsheet at regulay 24 hour periods. The google scripts are also responsible for logging the new data by creating new lines in the database and also sending any changes in valuations to emails or phones.
+The shiller PE values are scraped from a website by using regexes on it's HTML source code. The datascraping takes place on google cloud using google scripts, which directly interact with the spreadsheet at regular 24 hour periods. The google scripts are also responsible for logging the new data by creating new lines in the database and also sending any changes in valuations to emails or phones.
 
 # Twitter bot
 This bot publishes the inferences gained from the spreadsheet database by visualizing the data on a regular basis and uploading it to twitter. The bot constructs three different types of visualizations that each cover different aspects of the data.
