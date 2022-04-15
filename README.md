@@ -23,4 +23,5 @@ Whenever a sector changes its valuation from one category to another, a normal d
 
 ## Sector Valuation Tables
 The bot releases the current valuations of the stock market sectors in a table format to provide a summary of the categorizations of each sector. 
+
 ![image](https://pbs.twimg.com/media/FQRTV-UXwAAOEDY?format=png&name=small)
