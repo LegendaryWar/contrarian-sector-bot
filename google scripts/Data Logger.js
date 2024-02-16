@@ -2,7 +2,6 @@
 function daily() {
     var day = new Date();
     if (day.getDay() > 5 || day.getDay() == 0) {
-      Logger.log('no weekday lol');
       Logger.log(day);
       return;
     }
